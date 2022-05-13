@@ -1,0 +1,5 @@
+1. Pokemon List page;​ should show a list of Pokemons’ names and the o​ wned total.​ When a Pokemon is clicked, it should go to that Pokemon Detail page.
+2. Pokemon Detail page;​ should show a picture of the Pokemon with its moves and types (this information is from the API, feel free to add more information on the Pokemon if you want to). The mandatory thing is that there should be a button to c​ atch the Pokemon​, (​success probability is 50%)​ , if success then the user can g​ ive the Pokemon a nickname​ and add that Pokemon to `My Pokemon List’. You can catch the same pokemon multiple times but need to give a​ different nickname​ for each pokemon.
+3. My Pokemon List page;​ should show a list (like Pokemon List page, but with each of their nicknames as well) of all P​ okemons you have caught.​ It should also be possible to ​remove/release​ a Pokemon from the list on this page. The pokemons in this list p​ ersist​ even after a full page reload.
+
+API = https://github.com/mazipan/graphql-pokeapi
